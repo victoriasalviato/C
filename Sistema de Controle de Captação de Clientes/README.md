@@ -1,0 +1,1 @@
+Projeto completo com todas funcionalidades exigidas, incluindo cálculo de dias e organização das estruturas.
